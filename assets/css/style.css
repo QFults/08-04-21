@@ -1,0 +1,34 @@
+/* p {
+      font-size: 50px;
+      color: green !important;
+    }
+
+    .blue {
+      font-size: 50px;
+      color: blue;
+      border: 2px solid black;
+    }
+
+    #orange {
+      font-size: 50px;
+      color: orangered;
+    } */
+
+.border {
+  border: 4px solid black;
+}
+
+.spongebob {
+  width: 100px;
+  height: 100px;
+}
+
+.patrick {
+  height: 100px;
+  width: 300px;
+}
+
+#squidward {
+  height: 300px;
+  width: 179px;
+}
